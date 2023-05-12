@@ -1,0 +1,10 @@
+<style>
+  .navbar {
+    height: 100px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+</style>
